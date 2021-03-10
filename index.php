@@ -105,6 +105,7 @@
               </div>
             <?php
         endwhile;
+        wp_reset_postdata();
       else: echo 'There are no posts to be displayed at the moment'; 
 
       endif;
