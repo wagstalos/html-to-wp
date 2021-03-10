@@ -1,4 +1,3 @@
-# html-to-wp
 <h1 align="center">HTML5 para Wordpress</h1>
 
 <p align="center">Convertendo um site HTML5 para Wordpress</p>
@@ -7,3 +6,9 @@
     <a href="https://wordpress.org/">🔗 WORDPRESS</a>
 </h1>
 <p align="center">🚀 HTML5/CSS/JS/PHP</p>
+
+### Features
+
+- [x] Cadastro de portfólio dinâmico através de posts
+- [x] Alterar todas informações via Widgets
+- [x] Formulário de contato
